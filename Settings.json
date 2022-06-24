@@ -1,0 +1,21 @@
+{
+    "UrlDataTransfer": {
+        "Urls": [
+            {
+                "Name": "Mixar",
+                "Type": 1,
+                "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "AppRate",
+                "Type": 2,
+                "Url": "https://mix-ar.ru/content/gibdd/"
+            },
+            {
+                "Name": "Markers",
+                "Type": 3,
+                "Url": "https://mix-ar.ru/content/gibdd/markers.pdf"
+            }
+        ]
+    }
+}
