@@ -15,6 +15,11 @@
                 "Name": "Markers",
                 "Type": 3,
                 "Url": "https://mix-ar.ru/content/gibdd/markers.pdf"
+            },
+            {
+                "Name": "AppSpecial",
+                "Type": 4,
+                "Url": "https://mixar.biz/"
             }
         ]
     }
