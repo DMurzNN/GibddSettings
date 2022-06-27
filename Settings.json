@@ -20,6 +20,11 @@
                 "Name": "AppSpecial",
                 "Type": 4,
                 "Url": "https://mixar.biz/"
+            },
+            {
+                "Name": "License",
+                "Type": 5,
+                "Url": "https://mix-ar.ru/content/gibdd/license.pdf"
             }
         ]
     }
