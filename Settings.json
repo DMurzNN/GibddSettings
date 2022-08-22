@@ -25,6 +25,11 @@
                 "Name": "License",
                 "Type": 5,
                 "Url": "https://mix-ar.ru/content/vcht_pdd/license.html"
+            },
+            {
+                "Name": "Privacy",
+                "Type": 6,
+                "Url": "https://mix-ar.ru/content/vcht_pdd/privacy_policy.html"
             }
         ]
     },
